@@ -1,4 +1,4 @@
-👋 Hello! I'm Jon McCutchen, a Software Engineer with a passion for creating innovative products in Web3.
+👋 Hello! I'm Jon, a Software Engineer with a passion for creating innovative products in Web3.
 
 🔗 Skills:
 Solidity, Java, Python, Solidity, JavaScript, React, SQL databases, AWS, and many more.

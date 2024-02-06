@@ -1,8 +1,2 @@
-👋 Hello! I'm Jon, a Software Engineer with a passion for creating innovative products in Web3.
-
-🔗 Skills:
-Solidity, Java, Python, JavaScript, React, SQL databases, AWS, and many more.
-
-📩 Let's Connect:
-Feel free to reach out if you're interested in discussing opportunities, partnerships, or even the latest trends in software engineering. Let's connect! 🤝
+01101000 01100101 01101100 01101100 01101111 00101100 00100000 01110111 01101111 01110010 01101100 01100100 00100001
 
